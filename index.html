@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Card Effect</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="https://kit.fontawesome.com/95a02bd20d.js"></script>
+</head>
+<body>
+  <div class="container">
+     <div class="card">
+       <div class="face face1 card1">
+         <div class="content">
+            <i class="fab fa-windows"></i>            
+           <h3>Windows</h3>
+         </div>
+       </div>
+       <div class="face face2">
+         <div class="content">
+           <p> <b>Instagram:</b> 
+           	<a class="link" href="https://www.instagram.com/codedesignerworld/">
+           	@codedesignerworld</a><br>
+           	Code is Available on <b>
+           	<a class="link" href="https://github.com/codedesignerworld">Github</a>
+           </b></p>
+           <a class="btn" href="#" type="button">Know More</a>
+         </div>
+       </div>
+    </div>
+    
+    <div class="card">
+       <div class="face face1 card2" >
+         <div class="content">
+      <i class="fab fa-android"></i>               
+      <h3>Android</h3>
+         </div>
+       </div>
+       <div class="face face2">
+         <div class="content">
+           <p> <b>Instagram:</b> 
+           	<a class="link" href="https://www.instagram.com/codedesignerworld/">
+           	@codedesignerworld</a><br>
+           	Code is Available on <b>
+           	<a class="link" href="https://github.com/codedesignerworld">Github</a>
+           </b></p>
+           <a class="btn" href="#" type="button">Know More</a>
+         </div>
+       </div>
+    </div>
+    
+    <div class="card">
+       <div class="face face1 card3">
+         <div class="content">
+           <i class="fab fa-apple"></i>
+            <h3>Apple</h3>
+         </div>
+       </div>
+       <div class="face face2">
+         <div class="content">
+           <p> <b>Instagram:</b> 
+           	<a class="link" href="https://www.instagram.com/codedesignerworld/">
+           	@codedesignerworld</a><br>
+           	Code is Available on <b>
+           	<a class="link" href="https://github.com/codedesignerworld">Github</a>
+           </b></p>
+           <a class="btn" href="#" type="button">Know More</a>
+         </div>
+       </div>
+    </div>
+    
+    
+    
+    
+    
+    
+  </div>
+  
+</body>
+</html>
